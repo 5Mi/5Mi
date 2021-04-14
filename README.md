@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 [![5Mi's GitHub stats](https://github-readme-stats.vercel.app/api?username=5Mi&count_private=true&show_icons=true&theme=onedark)](https://github.com/5Mi)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5Mi&repo=wumi_blog)](https://github.com/5Mi/wumi_blog)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5Mi&repo=wumi_blog)](https://github.com/5Mi/wumi_blog) -->
