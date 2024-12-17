@@ -1,5 +1,5 @@
 ### Hi there I’m kaiyou 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=000301&width=1000&lines=%F0%9F%98%90+a+silent+observer+%26+front-end+developer;A+madao%2C+samurai%2C+hunter%2C+Witcher%2C++anime+enthusiast%2C+and+gamer.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&size=30&pause=1000&color=000301&width=1000&lines=%F0%9F%98%90+a+silent+observer+%26+front-end+developer;A+madao%2C+samurai%2C+hunter%2C+Witcher%2C++anime+enthusiast%2C+and+gamer.)
 
 <img align="right" height="250" width="260" alt="" src="https://raw.githubusercontent.com/5Mi/markdown-images/refs/heads/master/images/Shell%20Sticker.gif" />
 
